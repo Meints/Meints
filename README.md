@@ -1,7 +1,8 @@
-### Olá! Sou o Carlos Eduardo!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+Vindo+:%29;Meu+nome+é+Carlos+Eduardo+Meints;Tenho+18+anos;Estudante+de+Sistemas+de+Informação;)](https://git.io/typing-svg)
 
-- 🌱 Estudando JavaScript, Java e SQL
+### 
 
 <div align="center">
   <a href="https://github.com/Meints">
@@ -15,8 +16,12 @@
   <img align="center" alt="Meints-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="right" alt="Meints-pic" height="150" style="border-radius:50px;"        src="">
 </div>
+ 
 
+##
+  - 🌱 Estudando JavaScript, Java e SQL
 ##
 
 <div> 
