@@ -16,8 +16,8 @@
   <img align="center" alt="Meints-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="right" alt="Meints-pic" height="150" style="border-radius:50px;"        src="">
-  
+  <img align="right" alt="Meints-pic" height="150" style="border-radius:50px;"        src="https://user-images.githubusercontent.com/110067186/205399400-be20786f-7f85-47b9-b129-69929cab2200.jpg">
+  ![anime]()
 
 </div>
  
