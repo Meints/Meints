@@ -1,8 +1,7 @@
 ### Olá! Sou o Carlos Eduardo!
 
 
-- 🌱 Estudando JavaScript e SQL
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando JavaScript, Java e SQL
 
 <div align="center">
   <a href="https://github.com/Meints">
