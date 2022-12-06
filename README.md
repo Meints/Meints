@@ -4,11 +4,13 @@
 
 ### 
 
-<div align="center">
-  <a href="https://github.com/Meints">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">
+   <img src ="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Meints&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
