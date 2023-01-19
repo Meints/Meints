@@ -4,9 +4,10 @@
 
 ### 
 
+
 <p align="center">
-   <img height="115em" src="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+   <!--<img height="115em" src="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">-->
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=Meints&theme=dracula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
@@ -23,9 +24,8 @@
  
 
 ##
-  - 🌱 Estudando JavaScript, Java e SQL
-##
 
+<p>Para entrar em contato:</p>
 <div> 
   <a href="https://www.instagram.com/eaemeints/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/meintsqw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
