@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+Vindo+:%29;Meu+nome+é+Carlos+Eduardo+Meints;Tenho+18+anos;Estudante+de+Sistemas+de+Informação;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+Vindo+:%29;Meu+nome+é+Carlos+Eduardo+Meints;Tenho+18+anos;Estudante+de+Sistemas+de+Informação;)](https://git.io/typing-svg)
 
 ### 
 
 
 <p align="center">
-   <!--<img height="115em" src="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">-->
+   <img height="115em" src="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=Meints&theme=dracula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
