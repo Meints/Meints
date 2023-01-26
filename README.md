@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+:%29;My+name+is+Carlos+Eduardo+Meints;I'm+a+information+systems+student;)](https://git.io/typing-svg)
-<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Meints&bg_color=0d1117&color=ff91a4&line=b13583&point=6A5ACD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Meints&bg_color=0d1117&color=F5F5F5&line=b13583&point=6A5ACD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 
 
 
