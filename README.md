@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Welcome+:%29;My+name+is+Carlos+Eduardo+Meints;I'm+a+information+systems+student;)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Carlos Eduardo Meints</h1>
 
-##
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Meints&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -18,12 +17,20 @@
 
 ### <p>Languages and Tools (Learning):</p>
 <div style="display: inline_block"><br>
-     <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-     <img align="center" alt="Meints-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="Meints-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Meints-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Meints-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-     <img align="right" alt="Meints-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110067186/205399664-5a444aea-2434-436e-a78b-4fd00e84dfff.png">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+     <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+     <img align="center" alt="Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+     <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+     <img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+     <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+     <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
+     <img align="center" alt="Html" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+     <img align="center" alt="Css" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+     <img align="center" alt="Boostrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+     <img align="center" alt="Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+     <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+     <img align="center" alt="BitBucket" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Dark.svg">
+     <img align="center" alt="Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
 </div>
  
 
