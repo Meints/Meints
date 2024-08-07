@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo Meints</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meints&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Meints&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meints&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <br>
