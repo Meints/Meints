@@ -13,20 +13,20 @@
 
 ### <p>Languages and Tools (Learning):</p>
 <div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+     <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
      <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
      <img align="center" alt="Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+     <img align="center" alt="Nest" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
+     <img align="center" alt="PostgreSql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
      <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
      <img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
      <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+     <img align="center" alt="Next" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
      <img align="center" alt="Prisma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
-     <img align="center" alt="Html" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-     <img align="center" alt="Css" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
      <img align="center" alt="Boostrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
      <img align="center" alt="Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
      <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
      <img align="center" alt="BitBucket" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Dark.svg">
-     <img align="center" alt="Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
 </div>
  
 
